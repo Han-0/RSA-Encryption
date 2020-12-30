@@ -9,3 +9,7 @@ Usage:
 1. Execute KeyGen.java
 2. Execute Sender.java
 3. Execute Reciever.java
+
+Known Issues:
+
+Decryption algorithm produces more bytes than were present in original file.
