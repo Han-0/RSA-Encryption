@@ -10,6 +10,7 @@ Usage:
 2. Import a message file to the same directory as Sender.java (can be a file of any type).
 3. Execute Sender.java
 4. Execute Reciever.java
+5. If you want the decoded file to be in readable format, give it the original file extension when prompted for a file name in Reciever.java.
 
 Known Issues:
 
