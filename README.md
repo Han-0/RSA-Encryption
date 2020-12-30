@@ -7,8 +7,9 @@ Usage:
 
 0. Open directory in a command terminal or IDE
 1. Execute KeyGen.java
-2. Execute Sender.java
-3. Execute Reciever.java
+2. Import a message file to the same directory as Sender.java (can be a file of any type).
+3. Execute Sender.java
+4. Execute Reciever.java
 
 Known Issues:
 
